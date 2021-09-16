@@ -8,6 +8,7 @@ import codeIcon from "./images/code.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
+import linkedIn from "./images/linkedin.svg"
 
 
 export default {
@@ -158,7 +159,8 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/errollinsjr" }
+    { img: githubIcon, url: "https://github.com/errollinsjr" },
+    { img: linkedIn, url: "http://linkedin.com/in/edward-rollins-b78194133" }
   ],
 
   // End Contact Section ---------------
