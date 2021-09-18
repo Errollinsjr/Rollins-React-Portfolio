@@ -15,7 +15,7 @@ React Portfolio
 
 ## Link
 
-https://errollinsjr.github.io/Rollins-Portfolio/
+https://errollinsjr.github.io/Rollins-React-Portfolio/
 
 ## Screenshot
 
